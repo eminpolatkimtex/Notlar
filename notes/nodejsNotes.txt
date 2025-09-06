@@ -29,6 +29,8 @@ npm install pg
 githubda clone yapınca npm install de her iki taraf için de 
 
 * back endde de ilk başta npm init yapabilirsin 
+npm init -y
+npm i nodemon -D
 
 Node.js 
 -------

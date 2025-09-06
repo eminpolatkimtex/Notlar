@@ -1,0 +1,74 @@
+node index.js 
+
+npm init --yes 
+npm i express@5.1.0
+npm i nodemon dersek dependency kısmına gelir 
+npm i nodemon -g dersek pcye yüklenir diğer projelerde de kullanılır 
+
+npm create vite@latest .
+npm install 
+npm run dev 
+npm install react-router-dom 
+
+(rmdir /s /q .git)
+
+npm list dersek projenin paketleri listelenir 
+
+
+to run -> node index.js, nodemon index.js 
+	npm run dev -> çalıştırmak için 
+
+npm i ejs 
+	views diye bir klasör oluşturup html uzantılı dosyaları buraya at ve uzantılarını ejs olarak değiştir 
+
+npm i bootstrap 
+npm i mysql2 
+npm install pg
+
+
+githubda clone yapınca npm install de her iki taraf için de 
+
+* back endde de ilk başta npm init yapabilirsin 
+
+Node.js 
+-------
+
+el ile manuel main.js oluştur 
+
+npm i pg -> bunu diyince package.json da geliyor zaten
+npm install cors
+
+node main.js 
+
+npm i express
+npm install jsonwebtoken
+npm install mongoose
+npm install cors
+-----------------------------------------------
+React 
+-----
+npx create-react-app student-crud
+cd student-crud
+npm start
+
+npm i react-router-dom 
+npm i axios 
+npm i react-router-dom axios
+
+
+// npm init -y -> package.json, package.json silindiyse 
+// npm i axios 
+// npm i nodemon 
+
+
+npm create vite@latest .
+npm install 
+npm i axios react-icons 
+npm install tailwindcss @tailwindcss/vite
+npm run dev 
+
+
+
+
+
+

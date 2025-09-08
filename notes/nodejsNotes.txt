@@ -7,6 +7,7 @@ npm i nodemon -g dersek pcye yüklenir diğer projelerde de kullanılır
 
 npm create vite@latest .
 npm install 
+npm i axios react-icons
 npm run dev 
 npm install react-router-dom 
 

@@ -71,6 +71,14 @@ npm install tailwindcss @tailwindcss/vite
 npm run dev 
 
 
+lokaldekini güncellemek için : 
+cd senin/proje/klasörün
+git remote -v
+git fetch origin
+git checkout master
+git pull origin master
+
+
 
 
 

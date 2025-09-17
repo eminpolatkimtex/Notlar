@@ -11,16 +11,23 @@ front-back ayrı izle acele etme uğraş biraz dene
 	
 	pern stack 
 	1- https://www.youtube.com/watch?v=ldYcgPKEZC8
-	2- https://www.youtube.com/watch?v=JvrenJBnjnQ *****
+	2- https://www.youtube.com/watch?v=JvrenJBnjnQ 
 		https://www.youtube.com/watch?v=hkHHwA-vEyQ
 	3- https://www.youtube.com/watch?v=gTD8b5Yxuuo
 	4- https://www.youtube.com/watch?v=mk5EIPu21y0&t=3s
 	5- https://www.youtube.com/watch?v=7UQBMb8ZpuE - https://www.youtube.com/watch?v=cjqfF5hyZFg -> jwtli pern 
-	*- https://www.youtube.com/watch?v=IIUyZjI6g24
+	*- https://www.youtube.com/watch?v=IIUyZjI6g24  ************ 2- 
 	*- https://www.youtube.com/watch?v=RkYIWg5XAnI&list=PLAybR4FAfy8mhU0ou-tnbj9XMtGxh-zcs&index=6
 	
-	https://www.youtube.com/watch?v=lx3YJj0nJVk
-	https://www.youtube.com/watch?v=5wwaQ4GiSNU&list=PLEDt7VnoD3aZyQriCeuWv2x9tWKV--1ZK&index=6 -> prizma full-stack
+	https://www.youtube.com/watch?v=lx3YJj0nJVk      *******  1-
+	https://www.youtube.com/watch?v=5wwaQ4GiSNU&list=PLEDt7VnoD3aZyQriCeuWv2x9tWKV--1ZK&index=6 -> prizma full-stack ****
+
+
+	lazım olursa docker -> https://www.youtube.com/watch?v=TYB-Lz8YGFk&t=3s
+	
+	drizzle 
+	https://www.youtube.com/watch?v=9alCkObbDJc ***
+	https://www.youtube.com/watch?v=zXNa9Z-ID6g ***
 
 	
 

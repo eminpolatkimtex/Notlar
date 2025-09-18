@@ -1,19 +1,13 @@
-front -> react, tailwind 
-back-end -> drizzle orm, pg pool, express, postgre, web socket, typescript,js 
-
-45-15-45 izlerken ikiye böl front-back
-
 haftada 3 gün(acele yok, gptye bol bol sor)
 değiştirmeye çalışırsın, birşeyler eklersin, proje üstünde öğrenirsin gptye sorarsın açıklar sana kodları
 front-back ayrı izle acele etme uğraş biraz dene
 -----------------------------------------------------------------------------------------------------------
-	drizzle back end bakabilirsin, api consuming olabilir, jwt, dto, auth, webSocket, graphql  vs. front da da greatstack
-	
+	BOL PERN PROJE
 	pern stack 
 	1- https://www.youtube.com/watch?v=ldYcgPKEZC8
 	2- https://www.youtube.com/watch?v=JvrenJBnjnQ 
 		https://www.youtube.com/watch?v=hkHHwA-vEyQ
-	3- https://www.youtube.com/watch?v=gTD8b5Yxuuo
+	3- https://www.youtube.com/watch?v=gTD8b5Yxuuo // burda kaldım 
 	4- https://www.youtube.com/watch?v=mk5EIPu21y0&t=3s
 	5- https://www.youtube.com/watch?v=7UQBMb8ZpuE - https://www.youtube.com/watch?v=cjqfF5hyZFg -> jwtli pern 
 	*- https://www.youtube.com/watch?v=IIUyZjI6g24  ************ 2- 
@@ -31,7 +25,8 @@ front-back ayrı izle acele etme uğraş biraz dene
 
 	
 
-
+api consuming, web socket,
+typescript, tailwind
 
 
 
